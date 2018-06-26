@@ -12,6 +12,7 @@ Example for chapter 1:
 $ git clone https://github.com/oozie-book/examples.git
 $ cd examples/chapter-01/identity-wf
 $ mvn clean assembly:single
+$ brew install tree
 $ tree target/example
 target/example
 |-- ch01-identity
